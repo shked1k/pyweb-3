@@ -1,3 +1,3 @@
 Правильная ссылка
 
-https://github.com/shked1k/pyweb-3/
+https://shked1k.github.io/pyweb-3/
